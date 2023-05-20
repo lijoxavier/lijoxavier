@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 # Hi, I'm Lijo ! 👋
 
   
-## 🔗 Links
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lijoxavier)
+<!-- ## 🔗 Links -->
+<!-- [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lijoxavier) -->
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-xavier-aa1112173)
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-xavier-aa1112173) -->
 
 <!-- ### 🤝🏻 &nbsp;Connect with Me
 <p>
