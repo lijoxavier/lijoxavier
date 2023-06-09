@@ -4,6 +4,8 @@
 ###Hi there 👋
 **lijoxavier/lijoxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+personal website link: https://portfolio-lijoxavier.vercel.app/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Lijo ! 👋
+# Hi, There ! 👋
 
   
 <!-- ## 🔗 Links -->
